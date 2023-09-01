@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oceanEyes-10
+- 👋 Hi, I’m @sieghart10
 - 👀 I’m interested in ... coding besides music and art
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
